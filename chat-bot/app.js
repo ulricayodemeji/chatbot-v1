@@ -1,4 +1,4 @@
-//links
+
 //http://eloquentjavascript.net/09_regexp.html
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
@@ -8,10 +8,6 @@ var messages = [], //array that hold the record of each string in chat
   botMessage = "", //var keeps track of what the chatbot is going to say
   botName = 'Chatbot', //name of the chatbot
   talking = true; //when false the speach function doesn't work
-//
-//
-//****************************************************************
-//****************************************************************
 //****************************************************************
 //****************************************************************
 //****************************************************************
